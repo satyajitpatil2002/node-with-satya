@@ -51,21 +51,7 @@ myServer.listen(3000, () => console.log("server started on port 3000"));
 // const { log } = require("console");
 // const http=require("http");
 // const fs = require("fs");
-// const url= url
-// //const express=require("express");
 
-
-// // const app= express // app is an handekar function 
-// // app.get('/',(req,res)=>{
-// //     return res.send("hello from homepage");
-// // });
-// // app.get('/about',(req,res)=>{
-// //     return res.send("hello from about page");
-// // });
-
-// // function.myHandler(req,res){
-// //     if 
-// // }
 
 
 
